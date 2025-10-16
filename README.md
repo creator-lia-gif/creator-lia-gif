@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 [footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=&fontSize=40&animation=fadeIn)
 
 </div>
-
